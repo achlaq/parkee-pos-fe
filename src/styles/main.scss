@@ -1,0 +1,20 @@
+@use './sidebar' as sidebar;
+@use './navbar' as navbar;
+
+body, html, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.app-container {
+  display: flex;
+  height: 100%;
+  flex-direction: column;
+}
+
+.content {
+  display: flex;
+  flex: 1;
+}
