@@ -4,6 +4,13 @@ Aplikasi web frontend menggunakan **React** dengan bundler **Vite** untuk aplika
 
 ---
 
+
+## 🛠️ Tech Stack
+- [React 19](https://react.dev/)  
+- [Vite 7](https://vitejs.dev/)  
+- [Node.js 18+](https://nodejs.org/)  
+- [NPM](https://www.npmjs.com/) 
+
 ## 📦 Installation
 
 ### 1. Clone Repository
